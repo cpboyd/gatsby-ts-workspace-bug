@@ -1,0 +1,19 @@
+{
+  "name": "hvs-gatsby-workspace",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Christopher Boyd <boyd.chrisp@gmail.com> (@cpboyd)",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "build": "yarn workspace hvs-gatsby build",
+    "clean": "yarn workspace hvs-gatsby clean",
+    "deploy": "yarn workspace hvs-gatsby deploy",
+    "develop": "yarn workspace hvs-gatsby develop",
+    "serve": "yarn workspace hvs-gatsby serve"
+  },
+  "workspaces": [
+    "gatsby-theme-youtube",
+    "hvs-gatsby"
+  ]
+}

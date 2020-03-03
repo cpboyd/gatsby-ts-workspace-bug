@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-theme-youtube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christopher Boyd <boyd.chrisp@gmail.com> (@cpboyd)",
+  "license": "UNLICENSED",
+  "private": true,
+  "peerDependencies": {
+    "gatsby": "^2.6.0"
+  }
+}
